@@ -1,0 +1,30 @@
+#gmail-row{
+    margin-top: 50px;
+}
+#next,#term{
+    float: right;
+    
+}
+#create,#drop{
+    float: left;
+}
+#guest{
+    margin: 20px;
+}
+#account{
+    margin: 20px;
+}
+#space{
+    margin-right: 20px;
+    color: grey;
+}
+a:hover{
+    text-decoration: none;
+}
+h2{
+    font-weight: 400;
+    font-size: 25px;
+}
+#lines{
+    margin-top: 40px;
+}
